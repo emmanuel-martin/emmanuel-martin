@@ -5,8 +5,7 @@
 
 ## I'm a Passionate Developer, Designer and a Dream chaser!!
 
-- 🔭 I just uploaded a new video on youtube: [Be the first to watch!][link]!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: In search of a new startup
 - ⚡ Fun fact: I love listening to musics
