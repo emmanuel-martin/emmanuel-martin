@@ -32,13 +32,6 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Emmanuel Martin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ericemmanuel&show_icons=true&hide_border=true&hide=stars,commits,prs,issues,contribs" />
-
-</details>
-
 [website]: https://www.emmanuelcreations.in
 [twitter]: https://twitter.com/ec_officials
 [youtube]: https://www.youtube.com/channel/UCha3o_s0Ze0zIhIiTYpGRnQ
