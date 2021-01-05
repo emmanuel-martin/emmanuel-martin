@@ -5,11 +5,6 @@
 
 ## I'm a Passionate Developer, Designer and a Dream chaser!!
 
-- 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: In search of a new startup
-- ⚡ Fun fact: I love listening to musics
-
 ### Connect with me:
 
 [<img align="left" alt="emmanuelcreations.in" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
