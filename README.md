@@ -29,8 +29,8 @@
 <br />
 <br />
 
-[website]: https://www.emmanuelcreations.in
-[twitter]: https://twitter.com/ec_officials
+[website]: https://linktr.ee/emmanuelmartin
+[twitter]: https://twitter.com/emmanuelmartin_
 [youtube]: https://www.youtube.com/channel/UCha3o_s0Ze0zIhIiTYpGRnQ
-[instagram]: https://www.instagram.com/the.record.label/
-[linkedin]: https://www.linkedin.com/in/emmanuelcreations/
+[instagram]: https://www.instagram.com/_emmanuelmartin/
+[linkedin]: https://www.linkedin.com/in/emmanuellmartin/
