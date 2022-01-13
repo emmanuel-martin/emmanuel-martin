@@ -1,4 +1,4 @@
-### Hi there, I'm Emmanuel Martin - [SYMETRIX][website] 👋
+### Hi there, I'm [Emmanuel Martin][website] 👋
 
 
 ## I'm a Passionate Developer, Designer and a Dream chaser!!
