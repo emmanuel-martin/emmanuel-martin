@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: In search of a new startup
+- 🥅 2022 Goals: life.refresh(), life.changes() 
 - ⚡ Fun fact: I love listening to musics
 
 ### Connect with me:
