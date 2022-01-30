@@ -1,4 +1,4 @@
-### Hi there, I'm [Emmanuel Martin][website] 👋
+### Hi there, I'm Emmanuel 👋
 
 
 ## I'm a Passionate Developer, Designer and a Dream chaser!!
