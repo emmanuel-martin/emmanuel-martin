@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[linktree]
+[linktree]: https://linktr.ee/emmanuelmartin
 
 **languages and tools:**  
 
