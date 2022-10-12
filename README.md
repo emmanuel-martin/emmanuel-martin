@@ -8,6 +8,12 @@
 - 🥅 2022 Goals: life.refresh(), life.changes() 
 - ⚡ Fun fact: I love listening to musics
 
+
+```javascript
+npx emmanuel
+```
+
+
 ```javascript
 const emmanuel = {
     pronouns: "He" | "Him",
