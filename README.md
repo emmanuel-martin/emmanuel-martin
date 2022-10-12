@@ -8,6 +8,29 @@
 - 🥅 2022 Goals: life.refresh(), life.changes() 
 - ⚡ Fun fact: I love listening to musics
 
+```javascript
+const emmanuel = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "PHP"],
+    askMeAbout: ["web dev", "tech", "app dev", "startups", "photography", "music"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Express"],
+        },
+        mobileApp: {
+            native: ["Android Development", "IOS Development"]
+        },
+        devOps: ["AWS", "Docker🐳"],
+        databases: ["mongo", "MySql"],
+        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    currentFocus: "Learning more about User Interactions and Experience",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
+
+
 ### Connect with me:
 
 [linktree]: https://linktr.ee/emmanuelmartin
