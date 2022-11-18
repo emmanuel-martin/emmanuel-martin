@@ -63,6 +63,10 @@ CSS          44 hr 30 mins   ██░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
+
+[![@emmanuelmartin's Holopin board](https://holopin.me/emmanuelmartin)](https://holopin.io/@emmanuelmartin)
+
+
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/emmanuelmartin" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
