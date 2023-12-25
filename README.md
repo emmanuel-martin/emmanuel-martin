@@ -3,10 +3,9 @@
 
 ## I'm a Passionate Developer, Designer and a Dream chaser!!
 
-- 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: life.refresh(), life.changes() 
-- ⚡ Fun fact: I love listening to musics
+- 👨‍💻 I’m looking to collaborate with other content creators
+- 🥅 2024 Goals: work on innovative projects
+- ⚡  Fun fact: I love listening to musics
 
 
 ```javascript
