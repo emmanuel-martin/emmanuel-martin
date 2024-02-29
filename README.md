@@ -56,7 +56,7 @@ const emmanuel = {
 <!--START_SECTION:waka-->
 ```text
 JavaScript   72 hrs 56 mins  ███████████████░░░░░░░░░░   66.12 % 
-PHP          53 hrs 43 min   ███████░░░░░░░░░░░░░░░░░░   27.19 % 
+TypeScript   53 hrs 43 min   ███████░░░░░░░░░░░░░░░░░░   27.19 % 
 CSS          44 hr 30 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
 
 ```
